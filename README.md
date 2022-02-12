@@ -1,6 +1,5 @@
 # 2022-02-12-Laravel-uzduotis
 
-# 2021-01-29-Laravel-uzduotis-Article
 Instructions
 1. Sukurti naują Laravel projektą.
 2. Įtraukti autentifikacijos modulį.
